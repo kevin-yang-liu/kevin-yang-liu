@@ -1,6 +1,6 @@
 # Hi! I'm Kevin, a CS graduate of Western University.
-## Feel free to take a look at some of my projects and email me if you want to work together.
-
+## Email - kliu469@uwo.ca
+## Website - [kevinyliu.ca](https://kevinyliu.com/)
 <img src="https://github.com/kevin-yang-liu/kevin-yang-liu/blob/main/linkedin-banner.png?raw=true" 
      alt="My face" 
      width="1000" 

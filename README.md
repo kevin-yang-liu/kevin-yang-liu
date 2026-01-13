@@ -1,4 +1,4 @@
-# Hi! I'm Kevin.
+# Hi! I'm Kevin - a software dev in Calgary, AB
 ## Website - [kevinyliu.com](https://kevinyliu.com/)
 ### Email - kliu469@uwo.coa
 #### Featuring a photo of me below on the right for FAANG Day at [Western Cyber Society](https://www.westerncybersociety.ca/)

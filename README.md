@@ -1,6 +1,6 @@
 # Software dev in Calgary, AB
 
-## Built www.Mandatunes.com
+## Built www.Mandatunes.com (https://pinyinsongs.vercel.app/ if it fails to load)
 ## Website - [kevinyliu.com](https://kevinyliu.com/)
 ### Email - kliu469@uwo.ca
 <img src="https://github.com/kevin-yang-liu/kevin-yang-liu/blob/main/linkedin-banner.png?raw=true" 

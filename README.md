@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-night-view.svg)
+<!-- ![](./profile-3d-contrib/profile-night-view.svg)-->
 # Software dev in Calgary, AB
 
 ## Website - [kevinyliu.com](https://kevinyliu.com/)
